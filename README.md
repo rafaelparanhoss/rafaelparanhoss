@@ -12,5 +12,5 @@ Engenheiro Ambiental e analista de dados geoespaciais. Trabalho com ETLs (geo e 
 - ANA (hidrologia) ETL
 
 ### Contato
-- LinkedIn: (colar link)
+- LinkedIn: https://www.linkedin.com/in/rafael-nectoux-paranhos-70a71b16a/
 - Email: rafael.paranhos@hotmail.com

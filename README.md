@@ -74,20 +74,6 @@ Projeto end-to-end para ingestão, processamento e disponibilização de focos d
 
 ## Áreas de interesse
 
-- ciência de dados geoespaciais;
-- sensoriamento remoto agrícola e ambiental;
-- classificação de imagens de satélite;
-- machine learning e deep learning aplicados a dados espaciais;
-- ETLs geoespaciais e automação de pipelines;
-- PostGIS, APIs e aplicações analíticas;
-- monitoramento territorial, agro e meio ambiente.
-
-
-
----
-
-## Áreas de interesse
-
 * ciência de dados geoespaciais;
 * sensoriamento remoto agrícola e ambiental;
 * classificação de imagens de satélite;

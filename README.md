@@ -10,7 +10,7 @@ Atuo na integração entre dados espaciais, imagens de satélite, bancos geográ
 
 ## Projetos em destaque
 
-### [Milho Safrinha — U-Net Multissensor](https://github.com/rafaelparanhoss/maize-second-crop-mt-unet-multisensor)
+### [Milho Safrinha — U-Net Multissensor](https://github.com/rafaelparanhoss/milho-safrinha-mt-unet-multissensor)
 
 Mapeamento de milho 2ª safra em Mato Grosso com **U-Net 2D**, combinando **Landsat 8/9**, **Sentinel-2**, **Sentinel-1 SAR**, bandas de observações válidas e pós-processamento espacial.
 

@@ -6,6 +6,13 @@ Engenheiro Ambiental e mestrando em Sensoriamento Remoto pela UFRGS, com foco em
 
 Atuo na integração entre dados espaciais, imagens de satélite, bancos geográficos, APIs e modelos de machine learning/deep learning para resolver problemas ligados ao agro, meio ambiente e monitoramento territorial.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearthengine&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-102230?style=flat)
+
 ---
 
 ## Projetos em destaque
@@ -62,12 +69,6 @@ Projeto end-to-end para ingestão, processamento e disponibilização de focos d
 
 **Modelagem e análise:** Machine Learning · Deep Learning · U-Net · Random Forest · Séries temporais · Classificação de imagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearthengine&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-102230?style=flat)
 
 ---
 
